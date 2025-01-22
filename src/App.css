@@ -1,0 +1,26 @@
+body {
+  background-color: #34495e; /* Dark gray-blue background */
+  font-family: "Roboto", sans-serif;
+  color: #ecf0f1; /* Light text */
+}
+
+.calculator {
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+button {
+  font-size: 1.5rem;
+  font-weight: bold;
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+.screen input {
+  font-size: 2rem;
+  font-weight: bold;
+  height: 50px;
+  color: #ecf0f1; /* White text for input */
+}
