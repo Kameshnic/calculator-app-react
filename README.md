@@ -119,7 +119,7 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ## Author
 
-- **Your Name**
+- **KAMESH**
 - [GitHub Profile](https://github.com/Kameshnic)
 
 ---
